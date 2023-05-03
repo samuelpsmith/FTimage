@@ -29,7 +29,12 @@ Contents:
 Quickstart:
 
 -Execute FTimage_App.
+
 -Select an image file (.png).
+
 -Specify a mask via prebuilt options or your own custom code. 
+
 -Run to plot.
+
 -Save plots.
+
